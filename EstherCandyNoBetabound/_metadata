@@ -1,0 +1,10 @@
+{
+  "author" : "16BitPotato",
+  "description" : "Note: This is the non-Betabound version of this mod. There are no humbugs in this one. For the definitive humbug experience, [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2767282430]see here.[/url]\n\nHave you ever felt the story quests were... missing something? I don't mean the dungeons, or the plot, or the friends you make along the way - I mean the rewards.\nEsther always has a reward bag ready for your triumphant return, and I always feel bad, the way we immediately sell - or, if you're truly psychotic, atomize - the nice things she likely hand-picked for us.\nSo, I asked myself, what can Esther give us that we'll truly appreciate? What is the one thing all grandmas have? And just [i]what[/i] is a humbug?\n\nAt the conclusion of each quest she gives, instead of a reward bag, Esther will now give you [strike]random crap from her purse[/strike]a nice treat, for being such a helpful young dear! Wait, did I just see her leaving Infinity Express? Uh-oh, hope you have an appetite...\n\nInspired by something Mawd said.",
+  "friendlyName" : "Esther Quest Reward Overhaul - Legendary Edition",
+  "link" : "steam://url/CommunityFilePage/2767276525",
+  "name" : "EstherCandyNoBetabound",
+  "steamContentId" : "2767276525",
+  "tags" : "Miscellaneous|Quests",
+  "version" : "1.1"
+}

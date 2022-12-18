@@ -1,0 +1,11 @@
+{
+  "author" : "16BitPotato",
+  "description" : "The ultimate reward item experience, for those with truly frivolous grandparents! See here for the saga that critics are calling \":sadolive:\"\n\nThis variant does not override the reward bags Esther gives you, which, honestly, just makes her extra grandmotherly.\n\n",
+  "friendlyName" : "Esther Quest Reward Overhaul - Special Definitive Edition",
+  "includes" : ["XRC_BETA_STARBOUND"],
+  "link" : "steam://url/CommunityFilePage/2767935705",
+  "name" : "EstherCandyNoReplace",
+  "steamContentId" : "2767935705",
+  "tags" : "Miscellaneous|Quests",
+  "version" : "1"
+}
