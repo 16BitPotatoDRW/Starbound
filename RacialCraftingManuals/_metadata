@@ -1,0 +1,12 @@
+{
+  "author" : "16BitPotato",
+  "description" : "Adds books that teach racial crafting recipes to the bookstore.",
+  "friendlyName" : "Racial Crafting Manuals for the Bookstore",
+  "friendlyname" : "Racial Crafting Manuals",
+  "includes" : ["bookstore"],
+  "link" : "steam://url/CommunityFilePage/1963931890",
+  "name" : "RacialCraftingManuals",
+  "steamContentId" : "1963931890",
+  "tags" : "Crafting and Building|Miscellaneous",
+  "version" : "1"
+}

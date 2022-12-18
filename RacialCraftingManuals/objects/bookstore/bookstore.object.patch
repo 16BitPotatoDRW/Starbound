@@ -1,0 +1,39 @@
+[
+    [
+        {
+        "op": "add",
+        "path": "/storeInventory/manuals/-",
+        "value": "16b_craftingmanualapex" 
+        },
+        {
+        "op": "add",
+        "path": "/storeInventory/manuals/-",
+        "value": "16b_craftingmanualavian" 
+        },
+        {
+        "op": "add",
+        "path": "/storeInventory/manuals/-",
+        "value": "16b_craftingmanualfloran" 
+        },
+        {
+        "op": "add",
+        "path": "/storeInventory/manuals/-",
+        "value": "16b_craftingmanualglitch" 
+        },
+        {
+        "op": "add",
+        "path": "/storeInventory/manuals/-",
+        "value": "16b_craftingmanualhuman" 
+        },
+        {
+        "op": "add",
+        "path": "/storeInventory/manuals/-",
+        "value": "16b_craftingmanualhylotl" 
+        },
+        {
+        "op": "add",
+        "path": "/storeInventory/manuals/-",
+        "value": "16b_craftingmanualnovakid" 
+        }
+    ]
+]
