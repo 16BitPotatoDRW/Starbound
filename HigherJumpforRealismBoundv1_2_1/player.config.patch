@@ -1,0 +1,13 @@
+[{
+  "op": "replace",
+  "path": "/movementParameters",
+  "value": {
+    "flySpeed": 0,
+    "airFriction": 1,
+    "airJumpProfile": {
+      "jumpSpeed": 23.0,
+      "jumpInitialPercentage": 0.7,
+      "jumpHoldTime": 0.2
+    }
+  }
+}]

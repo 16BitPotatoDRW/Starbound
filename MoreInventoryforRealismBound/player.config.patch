@@ -1,0 +1,26 @@
+  [{
+    "op": "replace",
+    "path": "/inventory/itemBags",
+    "value": {
+      "mainBag" : {
+        "priority" : 1,
+        "size" : 40
+      },
+      "materialBag" : {
+        "priority" : 2,
+        "size" : 0
+      },
+      "objectBag" : {
+        "priority" : 3,
+        "size" : 0
+      },
+      "reagentBag" : {
+        "priority" : 4,
+        "size" : 0
+      },
+      "foodBag" : {
+        "priority" : 5,
+        "size" : 0
+      }
+    }
+  }]

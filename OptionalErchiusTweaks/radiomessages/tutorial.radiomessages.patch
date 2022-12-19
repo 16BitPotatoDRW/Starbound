@@ -1,0 +1,8 @@
+[
+ {
+ "op" : "replace",
+ "path" : "/pickupcorefrag/text",
+ "value" : "You discovered a core fragment! These contain a great deal of potential energy, and are often used in the manufacture of explosive compounds."
+ }
+]
+

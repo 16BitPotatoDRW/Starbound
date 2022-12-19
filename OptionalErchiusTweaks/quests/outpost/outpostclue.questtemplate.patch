@@ -1,0 +1,22 @@
+[
+	{
+	"op" : "replace",
+	"path" : "/completionText",
+	"value" : "Excellent. It may seem trivial, but scanning is an essential skill that will be pivotal in our search for the artifacts."
+	},
+	{
+	"op" : "replace",
+	"path" : "/text",
+	"value" : "One last thing before you go jetting off, I'll teach you how to ^green;access and use^white; the ^orange;scan mode^white; on your ^orange;Matter Manipulator^white;. There is a lot to be learned from your surroundings! ^green;Press ^#71f2f6;[N]^green; to equip your ^orange;scanner^white;, key areas of interest will appear green. Why don't you take a look around the Outpost? Let me know how you get on!"
+	},
+	{
+	"op" : "replace",
+	"path" : "/scriptConfig/radioMessages/startAlreadyComplete/text",
+	"value" : "Let me know when you have the hang of it, dear."
+	},
+	{
+	"op" : "replace",
+	"path" : "/scriptConfig/descriptions/turnIn",
+	"value" : "Investigate the Outpost before returning to ^orange;Esther^reset;"
+	}
+]

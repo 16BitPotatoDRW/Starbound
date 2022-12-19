@@ -1,0 +1,98 @@
+[
+ [
+  {
+   "op": "replace",
+   "path": "/statusControllerSettings/statusProperties/breathHealthPenaltyPercentageRate",
+   "value": 0.14
+  },
+  {
+   "op": "replace",
+   "path": "/statusControllerSettings/statusProperties/hitInvulnerabilityTime",
+   "value": 0.3
+  },
+  {
+   "op": "replace",
+   "path": "/statusControllerSettings/statusProperties/hitInvulnerabilityFlash",
+   "value": 0.045
+  },
+  {
+    "op": "replace",
+    "path": "/statusControllerSettings/stats/maxHealth/baseValue",
+    "value": 90
+    },
+  {
+    "op": "replace",
+    "path": "/statusControllerSettings/stats/maxEnergy/baseValue",
+    "value": 90
+    },
+  {
+    "op": "replace",
+    "path": "/statusControllerSettings/stats/energyRegenPercentageRate/baseValue",
+    "value": 0.285
+    },
+  {
+    "op": "replace",
+    "path": "/statusControllerSettings/stats/energyRegenBlockTime/baseValue",
+    "value": 1.85
+    },
+  {
+    "op": "replace",
+    "path": "/statusControllerSettings/stats/foodDelta/baseValue",
+    "value": -0.0391
+    },
+  {
+    "op": "replace",
+    "path": "/statusControllerSettings/stats/breathDepletionRate/baseValue",
+    "value": 4.0
+    },
+  {
+    "op": "replace",
+    "path": "/statusControllerSettings/stats/breathRegenerationRate/baseValue",
+    "value": 6.0
+    },
+  {
+    "op": "replace",
+    "path": "/statusControllerSettings/stats/fallDamageMultiplier/baseValue",
+    "value": 1.4
+    },
+  {
+    "op": "replace",
+    "path": "/statusControllerSettings/stats/powerMultiplier/baseValue",
+    "value": 0.8
+    },
+  {
+    "op": "replace",
+    "path": "/statusControllerSettings/stats/knockbackThreshold/baseValue",
+    "value": 15.0
+    }
+],
+
+ [
+  {
+   "op": "replace",
+   "path": "/movementParameters",
+   "value": { 
+    "flySpeed": 0,
+    "airFriction": 1,
+    "airJumpProfile": {
+     "jumpSpeed": 23.0,
+     "jumpInitialPercentage": 0.7,
+     "jumpHoldTime": 0.2
+    }
+   }
+  }
+ ],
+
+ [
+  {
+   "op": "replace",
+   "path": "/zeroGMovementParameters",
+   "value": {
+    "flySpeed" : 0.1,
+    "airForce" : 0.75,
+    "airFriction" : 0,
+    "bounceFactor" : 0.3
+   }
+  }
+ ]
+]

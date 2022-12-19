@@ -1,0 +1,22 @@
+[
+ {
+ "op" : "replace",
+ "path" : "/text",
+ "value" : "Yer looking to help out, eh? Yeah, I could use an extra pair of hands. I recently lost contact with my supplier fer ^orange;Erchius Crystals^reset;. There's been a lotta demand lately for crystal fuel, and I'll need to find a new source if I don't hear back soon. Have a poke around ^green;the Erchius Mining Facility^reset; and see if you can't secure some stock for me. I'll send the location coordinates to ^green;yer ship's SAIL^reset;."
+ },
+  {
+ "op" : "replace",
+ "path" : "/completionText",
+ "value" : "You managed to secure a shipment? Perfect! Folks around here'll be pleased. Much obliged, kid."
+ },
+ {
+ "op" : "replace",
+ "path" : "/moneyRange",
+ "value" : [1000, 1000]
+ },
+ {
+  "op" : "replace",
+ "path" : "/scriptConfig/descriptions/findCrystals",
+ "value" : "^green;Secure ^orange;Erchius Crystals^white; at the ^orange;Erchius Mining Facility^white;"
+ }
+]

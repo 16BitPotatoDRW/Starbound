@@ -1,0 +1,11 @@
+{
+  "author" : "16BitPotato",
+  "description" : "Gives threat level descriptions a more clinical tone, with support for tiers 7 through 10.",
+  "friendlyName" : "Clinical Threat Levels w/ T7-T10",
+  "link" : "steam://url/CommunityFilePage/2450758629",
+  "name" : "ClinicalThreatLevel",
+  "priority" : 99,
+  "steamContentId" : "2450758629",
+  "tags" : "Miscellaneous|User Interface",
+  "version" : "1"
+}

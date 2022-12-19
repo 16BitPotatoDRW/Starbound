@@ -1,0 +1,5 @@
+[{
+  "op": "replace",
+  "path": "/statusControllerSettings/stats/powerMultiplier/baseValue",
+  "value": 0.8
+}]

@@ -1,0 +1,8 @@
+[
+ {
+ "op" : "replace",
+ "path" : "/dialog/wakeUp/4/0",
+ "value" : "An emergency jump was initiated to facilitate our escape. Our location is currently unknown."
+ }
+]
+

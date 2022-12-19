@@ -1,0 +1,22 @@
+[
+ {"op":"replace","path":"/starterTreasure","value": [
+    [0, {
+      "fill" : [
+        {"item" : "flashlight"},
+        {"item" : [ "cannedfood", 1 ]},
+        {"item" : [ "cannedfood", 1 ]},
+        {"item" : [ "rottenfood", 1 ]},
+        {"item" : [ "rb_cyanidepill", 1 ]},
+        {"item" : [ "rb_bulletvestchest", 1 ]},
+        {"item" : [ "silverpickaxe", 1 ]},
+        {"item" : [ "rb_survivorstory-codex", 1 ]},
+        {"item" : [ "commonpistol", 1 ]},
+        {"item" : [ "commondagger", 1 ]},
+        {"item" : [ "survivalgearback", 1 ]},
+        {"item" : [ "bandage", 3 ]},
+        {"item" : [ "climbingrope", 5 ]}
+      ]
+    }]
+  ]
+  }
+]

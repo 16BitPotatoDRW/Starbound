@@ -1,0 +1,10 @@
+{
+  "author" : "16BitPotato",
+  "description" : "Increases the movement speed of crewmembers and quest-related followers from 15 to 17, so they walk slightly faster than the player. I've had this tweak sitting on my disk for ages, and I can't remember exactly what two extra points of speed entails, but I believe they'll be able to keep up with sprint tech. Let me know how it feels.\n\nYou can still leave them in the dust if you use crazy dash-momentum combos; I would have to set their speed to something like 50 for them to keep pace in every conceivable case.",
+  "friendlyName" : "Simply Faster Followers",
+  "link" : "steam://url/CommunityFilePage/2881835252",
+  "name" : "FasterFollowers",
+  "steamContentId" : "2881835252",
+  "tags" : "Miscellaneous",
+  "version" : "1"
+}

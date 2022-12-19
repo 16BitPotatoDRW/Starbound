@@ -1,0 +1,11 @@
+{
+  "author" : "16BitPotato",
+  "description" : "Doubles the fall damage multiplier. Made this because friends were complaining about RealismBound's triple fall damage.",
+  "friendlyName" : "Double Fall Damage",
+  "includes" : ["realismbound_definitive"],
+  "link" : "steam://url/CommunityFilePage/2454445722",
+  "name" : "double_falldamage",
+  "steamContentId" : "2454445722",
+  "tags" : "Miscellaneous",
+  "version" : "1"
+}

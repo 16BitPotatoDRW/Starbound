@@ -1,0 +1,12 @@
+{
+  "author" : "16BitPotato",
+  "description" : "Reduces the player's base powerMultiplier to 80%. Intended to offset some of the early-game power creep brought on by RPG Growth.",
+  "friendlyName" : "Reduced PowerMultiplier",
+  "includes" : ["realismbound_barebones"],
+  "link" : "steam://url/CommunityFilePage/2686603860",
+  "name" : "reduced_powerMultiplier",
+  "priority" : 90,
+  "steamContentId" : "2686603860",
+  "tags" : "Miscellaneous",
+  "version" : "1"
+}

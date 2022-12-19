@@ -1,0 +1,11 @@
+{
+	"input": [{
+		"item": "money",
+		"count": 100
+	}],
+	"output": {
+		"item": "liquidpoison",
+		"count": 5
+	},
+	"groups": ["beakeasy"]
+}

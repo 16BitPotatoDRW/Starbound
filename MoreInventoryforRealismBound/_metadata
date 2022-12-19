@@ -1,0 +1,11 @@
+{
+  "author" : "16BitPotato",
+  "description" : "Increases the size of the player's inventory to 48 slots in RealismBound: Definitive",
+  "friendlyName" : "40 Slots More Inventory for RealismBound Definitive",
+  "includes" : ["realismbound_definitive"],
+  "link" : "steam://url/CommunityFilePage/2052538196",
+  "name" : "realismbound_definitive_moreinventory_48slot",
+  "steamContentId" : "2052538196",
+  "tags" : "Miscellaneous",
+  "version" : "1"
+}

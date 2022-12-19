@@ -1,0 +1,7 @@
+[
+ {
+ "op" : "replace",
+ "path" : "/text",
+ "value" : "The ship is offline and you are floating alone in space. Your best bet is to boot up the ship computer and see if anything good comes of it."
+ }
+]

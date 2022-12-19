@@ -1,0 +1,15 @@
+[
+ {"op":"replace","path":"/starterTreasure","value": [
+    [0, {
+      "fill" : [
+        {"item" : "flashlight"},
+        {"item" : [ "cannedfood", 1 ]},
+        {"item" : [ "cannedfood", 1 ]},
+        {"item" : [ "copperpickaxe", 1 ]},
+        {"item" : [ "commondagger", 1 ]},
+        {"item" : [ "bandage", 3 ]}
+      ]
+    }]
+  ]
+  }
+]

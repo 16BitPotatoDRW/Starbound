@@ -1,0 +1,26 @@
+[
+[
+ {
+ "op" : "replace",
+ "path" : "/scriptConfig/descriptions/collectRepairItem",
+ "value" : "Acquire a ^orange;Core Fragment^reset;"
+ },
+ {
+ "op" : "replace",
+ "path" : "/scriptConfig/descriptions/repairGate",
+ "value" : "Use the ^orange;Core Fragment^reset; to activate the Gate"
+ },
+ {
+ "op" : "replace",
+ "path" : "/scriptConfig/gateRepairCount",
+ "value" : 1
+ }
+],
+[
+ {
+ "op" : "replace",
+ "path" : "/text",
+ "value" : "We are currently in orbit around an unknown world. The ship has no reactor fuel and we are unable to leave the system. I suggest you ^green;beam down to the planet's surface using the ^orange;teleporter^white;, and search for supplies and perhaps a means of acquiring fuel."
+ }
+]
+]

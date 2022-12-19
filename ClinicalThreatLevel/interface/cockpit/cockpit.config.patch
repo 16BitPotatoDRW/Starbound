@@ -1,0 +1,79 @@
+[
+ {"op": "replace",
+  "path": "/threatLevelColor/default/7",
+  "value": [213, 40, 0]
+  },
+
+ {"op": "replace",
+  "path": "/threatLevelColor/default/8",
+  "value": [213, 40, 0]
+  },
+
+ {"op": "replace",
+  "path": "/threatLevelColor/default/9",
+  "value": [213, 40, 0]
+  },
+
+ {"op": "replace",
+  "path": "/threatLevelColor/moon/0",
+  "value": [213, 40, 0]
+  },
+
+ {"op": "replace",
+  "path": "/threatLevelText/default",
+  "value": [
+    "1, Least Concern",
+    "2, Nominal Risk",
+    "3, Advise Discretion",
+    "4, Advise Caution",
+    "5, Immediate Hazard",
+    "6, Immediate Danger",
+    "7, Disadvise EVA",
+    "8, Disadvise Landing",
+    "9, Disadvise Approach",
+    "Deficient Data"
+  ]
+  },
+
+ {"op": "replace",
+  "path": "/threatLevelText/moon",
+  "value": [
+    "Deficient Data"
+  ]
+ },
+
+ {"op": "replace",
+  "path": "/objectThreatColors/available",
+  "value": [
+      [0, 213, 50],
+      [0, 165, 213],
+      [140, 213, 0 ],
+      [213, 140, 0],
+      [180, 50, 0],
+      [213, 40, 0],
+      [213, 40, 0],
+      [213, 40, 0],
+      [213, 40, 0]
+    ]
+  },
+
+ {"op": "replace",
+  "path": "/objectThreatText/unavailable",
+  "value": "NO AVAILABLE VEHICLES"
+  },
+
+ {"op": "replace",
+  "path": "/objectThreatText/available",
+  "value": [
+    "0, Not Applicable",
+    "3, Advise Discretion",
+    "4, Advise Caution",
+    "5, Immediate Hazard",
+    "6, Immediate Danger",
+    "7, Disadvise Contact",
+    "8, Disadvise Deployment",
+    "9, Disadvise Approach",
+    "Deficient Data"
+  ]
+  }
+]

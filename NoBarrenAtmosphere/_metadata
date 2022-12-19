@@ -1,0 +1,11 @@
+{
+  "author" : "16BitPotato",
+  "description" : "Barren planets no longer have breathable atmospheres.\n\nIt just patches barren.biome to have a biomeairless effect and sets airless to true.\nTFW you spend more time on the thumbnail than the actual mod",
+  "friendlyName" : "No Atmosphere on Barren Planets",
+  "friendlyname" : "No Atmosphere on Barren Planets",
+  "link" : "steam://url/CommunityFilePage/2057340643",
+  "name" : "NoAtmosphereBarren",
+  "steamContentId" : "2057340643",
+  "tags" : "Miscellaneous|Planets and Environments",
+  "version" : "1"
+}

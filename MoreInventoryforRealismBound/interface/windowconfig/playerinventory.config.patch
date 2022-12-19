@@ -1,0 +1,13 @@
+[
+ [{
+    "op": "replace",
+    "path": "/paneLayout/mainItemGrid",
+    "value": {
+      "type" : "itemgrid",
+      "position" : [6, 29],
+      "dimensions" : [10, 4],
+      "spacing" : [19, 19],
+      "backingImage" : "/interface/inventory/empty.png"
+   }
+ }]
+]

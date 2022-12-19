@@ -1,0 +1,5 @@
+[{
+  "op": "replace",
+  "path": "/statusControllerSettings/stats/fallDamageMultiplier/baseValue",
+  "value": 2
+}]

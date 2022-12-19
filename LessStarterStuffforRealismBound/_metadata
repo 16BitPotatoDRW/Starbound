@@ -1,0 +1,11 @@
+{
+  "author" : "16BitPotato",
+  "description" : "Reduces the amount of starting equipment in RealismBound Definitive.\n\nJust made it for my own tastes, feel free to use it how you want.",
+  "friendlyName" : "Less Starter Stuff for RealismBound: Definitive",
+  "includes" : ["realismbound_definitive"],
+  "link" : "steam://url/CommunityFilePage/1887880388",
+  "name" : "realismbound_definitive_lessstarterstuff",
+  "steamContentId" : "1887880388",
+  "tags" : "Miscellaneous",
+  "version" : "1.3"
+}

@@ -1,0 +1,13 @@
+[
+ {
+  "op": "add",
+  "path": "/airless",
+  "value": true
+  },
+
+ {
+  "op": "add",
+  "path": "/statusEffects",
+  "value": [ "biomeairless"]
+ }
+]

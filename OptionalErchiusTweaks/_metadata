@@ -1,0 +1,11 @@
+{
+  "author" : "16BitPotato",
+  "description" : "Makes a few narrative changes and minor tweaks to Optional Erchius.\n\nThis foremost includes a complete rewrite of dialogue and flavor text affected by the mod, intended to be more similar to the vanilla writing style and to offer a different narrative for the Erchius quest. It also covers a line which was not changed by the original mod.\n\nThis addon also increases the reward (1000 pixels) for completing the Erchius mission, by reason of the mission being optional.\n\nLastly, this readjusts the Ancient Gateway to require a single (1) Core Fragment; it just bothered me that it displayed a requirement of 0.",
+  "friendlyName" : "Tweaks for Optional Erchius",
+  "includes" : ["OptionalErchius", "LessGoofySailDialogue"],
+  "link" : "steam://url/CommunityFilePage/2767043804",
+  "name" : "OptionalErchiusTweaks",
+  "steamContentId" : "2767043804",
+  "tags" : "Miscellaneous|Quests",
+  "version" : "1.3"
+}

@@ -1,0 +1,11 @@
+{
+  "author" : "16BitPotato",
+  "description" : "NOTICE: If you think you can do a better job at this than me, PLEASE. GO. DO IT.\n\nThere is now a teleporter at Peacekeeper Station. You will still need to travel the old-fashioned way when you upgrade the station, I think. And I've only been able to test it at the first station.\n\nAlso, this overrides the entire dungeon since I don't know how to do patches in Tiled, so it'll conflict with anything that touches Peacekeeper Station.\n\n\n\nVersion 1.2: There are now different teleporter types at different tiers. At tier 1 & 2, there is a Scientific Teleporter. At tier 3, a Futuristic Teleporter. Starting at tier 4, a Peacekeeper Teleporter.\n\n[strike]Version 1.3: Maybe fixed an issue with station5.[/strike]\n\nVersion 1.4: Probably fixed an issue with station5.\n\nVersion 1.5: Removed a bench, almost definitely fixed an issue with station5.\n\nDue to the nature of the Peacekeeper Station, this is kind of a pain to test. If you have any information regarding oddities or anomalies with this mod, letting me know in the comments is appreciated.",
+  "friendlyName" : "Teleporter for Peacekeeper Station",
+  "friendlyname" : "Teleporter for Peacekeeper Station",
+  "link" : "steam://url/CommunityFilePage/2053876892",
+  "name" : "TeleporterforPeacekeeperStation",
+  "steamContentId" : "2053876892",
+  "tags" : "Miscellaneous|Cheats and God Items",
+  "version" : "1.5"
+}

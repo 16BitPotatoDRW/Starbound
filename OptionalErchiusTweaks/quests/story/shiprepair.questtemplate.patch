@@ -1,0 +1,24 @@
+[
+  [
+	  {
+		"op": "replace",
+		"path": "/title",
+		"value": "Lending a Hand"
+	  },
+	  {
+		"op": "replace",
+		"path": "/text",
+		"value": "First thing first though, dear; we need the Outpost to be in good working order. No matter how far you travel, you'll always want a place you can come back to. I hear ^orange;Penguin Pete the shipyard captain ^reset;could use a helping hand. I think you should ^green;return to the Outpost and speak to him."
+	  },
+	  {
+		"op": "replace",
+		"path": "/completionText",
+		"value": "That was no mean feat - well done, dear. With the shipyard stocked, everyone will benefit."
+	  },
+	  {
+		"op": "replace",
+		"path": "/scriptConfig/descriptions/repairShip",
+		"value": "^green;Help ^orange;Penguin Pete ^white;restock the shipyard."
+	  }
+  ]
+]

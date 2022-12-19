@@ -1,0 +1,79 @@
+[
+ {"op": "replace",
+  "path": "/threatLevelColor/default/7",
+  "value": [213, 40, 0]
+  },
+
+ {"op": "replace",
+  "path": "/threatLevelColor/default/8",
+  "value": [213, 40, 0]
+  },
+
+ {"op": "replace",
+  "path": "/threatLevelColor/default/9",
+  "value": [213, 40, 0]
+  },
+
+ {"op": "replace",
+  "path": "/threatLevelColor/moon/0",
+  "value": [213, 40, 0]
+  },
+
+ {"op": "replace",
+  "path": "/threatLevelText/default",
+  "value": [
+    "1. Safe",
+    "2. Nominal",
+    "3. Discretion",
+    "4. Caution",
+    "5. Hazard",
+    "6. Danger",
+    "7. Limit",
+    "8. Avoid",
+    "9. Exclude",
+    "Deficient Data"
+  ]
+  },
+
+ {"op": "replace",
+  "path": "/threatLevelText/moon",
+  "value": [
+    "Deficient Data"
+  ]
+ },
+
+ {"op": "replace",
+  "path": "/objectThreatColors/available",
+  "value": [
+      [0, 213, 50],
+      [0, 165, 213],
+      [140, 213, 0 ],
+      [213, 140, 0],
+      [180, 50, 0],
+      [213, 40, 0],
+      [213, 40, 0],
+      [213, 40, 0],
+      [213, 40, 0]
+    ]
+  },
+
+ {"op": "replace",
+  "path": "/objectThreatText/unavailable",
+  "value": "NO VEHICLE AVAILABLE"
+  },
+
+ {"op": "replace",
+  "path": "/objectThreatText/available",
+  "value": [
+    "0. N/A",
+    "3. Discretion",
+    "4. Caution",
+    "5. Hazard",
+    "6. Danger",
+    "7. Limit",
+    "8. Avoid",
+    "9. Exclude",
+    "Deficient Data"
+  ]
+  }
+]

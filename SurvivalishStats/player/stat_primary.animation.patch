@@ -1,0 +1,7 @@
+[
+ {
+  "op": "replace",
+  "path": "/lights/glow/color",
+  "value": [25, 25, 25]
+ }
+]

@@ -1,0 +1,11 @@
+{
+  "author" : "16BitPotato",
+  "description" : "Increases the jump height in RealismBound Definitive and reverts the gravity of the Erchius Mining Facility and the Ceremonial Hunting Caverns",
+  "friendlyName" : "Higher Jump Height for RealismBound: Definitive",
+  "includes" : ["realismbound_definitive"],
+  "link" : "steam://url/CommunityFilePage/1731434894",
+  "name" : "realismbound_definitive_higherjumpheight",
+  "steamContentId" : "1731434894",
+  "tags" : "Miscellaneous",
+  "version" : "1.2.1"
+}
