@@ -1,0 +1,10 @@
+{
+  "author" : "16BitPotato",
+  "description" : "Alternative Armor Scale, which is included in RPG Growth, has unintended effects on two boss fights; the Erchius Horror becomes vulnerable to conventional attacks, and the Ixodoom's shell becomes extremely ineffective. This fix addresses both by increasing their armor values to appropriate levels; the Erchius Horror is virtually invulnerable, as it should be, and the Ixodoom now has approximately the same damage resistance as originally.",
+  "friendlyName" : "Alternative Armor Scale - Boss Armor Fix",
+  "link" : "steam://url/CommunityFilePage/2910483958",
+  "name" : "ArmorScaleBossFix",
+  "steamContentId" : "2910483958",
+  "tags" : "Miscellaneous",
+  "version" : "1"
+}
