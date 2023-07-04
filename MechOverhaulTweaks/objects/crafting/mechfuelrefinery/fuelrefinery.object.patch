@@ -1,0 +1,12 @@
+[
+{
+"op" : "replace",
+"path" : "/shortdescription",
+"value" : "^orange;Mech Oil Distillery^white;"
+},
+{
+"op" : "replace",
+"path" : "/subtitle",
+"value" : "Convert Oil into Mech Fuel"
+}
+]

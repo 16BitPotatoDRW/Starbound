@@ -1,0 +1,7 @@
+[
+  {
+        "op": "replace",
+        "path": "/testdrive03/text",
+        "value": "Your mech switches to a ground-movement configuration when in an environment with gravity. You can manually switch from ground-movement to flight by double tapping the UP key."
+  }
+]

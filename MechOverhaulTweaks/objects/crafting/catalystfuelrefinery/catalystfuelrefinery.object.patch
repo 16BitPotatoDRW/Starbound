@@ -1,0 +1,17 @@
+[
+{
+"op" : "replace",
+"path" : "/description",
+"value" : "Refines mech fuel using a catalyst."
+},
+{
+"op" : "replace",
+"path" : "/shortdescription",
+"value" : "^orange;Mech Fuel Refinery^white;"
+},
+{
+"op" : "replace",
+"path" : "/subtitle",
+"value" : "Refine Mech Fuel"
+}
+]

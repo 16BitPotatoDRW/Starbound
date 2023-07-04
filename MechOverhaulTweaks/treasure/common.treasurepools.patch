@@ -1,0 +1,11 @@
+[
+{
+"op" : "test",
+"path" : "/isn_tech_chip/0/1/pool/6/item",
+"value" : "isn_chip_repair_kit"
+},
+{
+"op" : "remove",
+"path" : "/isn_tech_chip/0/1/pool/6"
+}
+]

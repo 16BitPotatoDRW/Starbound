@@ -1,0 +1,11 @@
+{
+  "author" : "16BitPotato",
+  "description" : "Assorted personal tweaks for Mech Overhaul, namely:\n* The Oil Distillery and Fuel Refinery are adjusted to include \"Mech\" in their names so that they will be sorted with other mech-related items in crafting menus.\n* If [url=https://steamcommunity.com/sharedfiles/filedetails/?id=1131820988]Tech Additions[/url] is installed, Repair Kit is removed from treasure pools and from sale at the tech console - Repair Kit doesn't work with Mech Overhaul, so this change exists to prevent frustration.\n* A small typo is corrected in SAIL's mech tutorial dialogue.",
+  "friendlyName" : "Tweaks for Mech Overhaul",
+  "includes" : ["mechoverhaul", "Tech Additions"],
+  "link" : "steam://url/CommunityFilePage/2997080817",
+  "name" : "MechOverhaulTweaks",
+  "steamContentId" : "2997080817",
+  "tags" : "Miscellaneous",
+  "version" : "1"
+}
