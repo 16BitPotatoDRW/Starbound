@@ -1,0 +1,10 @@
+{
+  "author" : "16BitPotato",
+  "description" : "A patch for survival mode which disables the dropping of all item categories except 'consumable;' this most notably encompasses food and medical items.",
+  "friendlyName" : "Only Drop Consumables",
+  "link" : "steam://url/CommunityFilePage/3002003309",
+  "name" : "ItemDropOnlyConsumable",
+  "steamContentId" : "3002003309",
+  "tags" : "Miscellaneous",
+  "version" : "1"
+}

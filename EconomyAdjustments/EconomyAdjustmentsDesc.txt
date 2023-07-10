@@ -1,0 +1,6 @@
+Hoverbike controllers are reduced in value from 15000 to 6500, rendering them obtainable much earlier in the game; this is in compensation for their tendency to be overshadowed by modded vehicles.
+Boat controllers are reduced in value from 25000 to 9500, for reasons similar to above.
+
+Tech Additions' tech chips are reduced in value from 10000 to 5000, bringing them in line with the tech chips from other mods and reducing their potency as common loot.
+
+ZZ Mech Modifications' colored Armor Platings are reduced in value from 7500 to 2500, corresponding to the frequency with which you can stumble over them, and bringing them in line with the values of other loots of similar abundance in the game.

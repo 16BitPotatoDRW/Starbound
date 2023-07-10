@@ -1,0 +1,12 @@
+[
+{
+"op" : "test",
+"path" : "/price",
+"value" : 10000
+},
+{
+"op" : "replace",
+"path" : "/price",
+"value" : 5000
+}
+]
